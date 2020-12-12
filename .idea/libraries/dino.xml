@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="dino">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../java/Dino/out/artifacts/dino_jar/dino.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="j_relative_layout">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../JRelativeLayout/out/artifacts/JRelativeLayout_jar/j_relative_layout.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
